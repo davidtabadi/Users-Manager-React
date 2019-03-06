@@ -1,3 +1,12 @@
+Very Important :
+
+In order to use React Hooks State you chould upgrade the version of react and reactDom
+
+npm install react-dom@16.8.0-alpha.0
+
+npm install react@16.8.0-alpha.0
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
